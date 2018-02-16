@@ -1,7 +1,7 @@
 """ 
    Author: Originally Surendra Kane
    Edited by: shrocky2
-  Script to control your Garge Door using an Amazon Echo. 
+   Script to control your Garge Door using an Amazon Echo. 
 """
 
 import fauxmo
