@@ -1,8 +1,7 @@
 """ 
    Author: Originally Surendra Kane
    Edited by: shrocky2
-  Script to control your TiVo using a Amazon Echo.
-  This script originally was used to control the gpio ports on the raspberry pi, so you will see remnants of that code. 
+  Script to control your Garge Door using an Amazon Echo. 
 """
 
 import fauxmo
